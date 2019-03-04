@@ -1,0 +1,147 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.6"
+            android:background="#0044BB" >
+
+            <ImageButton
+                android:id="@+id/add_list_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="AddNewList"
+                android:src="@drawable/add_orderlist_picture" />
+
+            <ImageButton
+                android:id="@+id/deletelist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="RemoveList"
+                android:src="@drawable/delete_orderlist_picture"
+                android:visibility="invisible" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="#0044BB" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5" >
+
+                <ImageButton
+                    android:id="@+id/t_add_meals_ibt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="AddNewMeals"
+                    android:src="@drawable/takeaway_add_meals_picture"
+                    android:visibility="invisible" />
+
+                <ImageButton
+                    android:id="@+id/d_add_meals_ibt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="AddNewMeals"
+                    android:src="@drawable/delivery_add_meals_picture"
+                    android:visibility="invisible" />
+
+                <ImageButton
+                    android:id="@+id/i_add_meals_ibt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="AddNewMeals"
+                    android:src="@drawable/inside_add_meals_picture"
+                    android:visibility="invisible"/>
+
+            </RelativeLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right" >
+
+                    <ImageButton
+                        android:id="@+id/imageButton1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="toUser_page"
+                        android:src="@drawable/user_information_picture" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="Exit"
+                        android:src="@drawable/logout_picture" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:baselineAligned="false"
+        android:divider="@drawable/divider"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:showDividers="middle" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6" >
+
+            <android.support.v4.view.PagerTabStrip
+                android:id="@+id/viewpagertab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:background="#33b5e5"      
+    			android:textColor="#fff"
+    			android:textSize="24sp" />
+
+        </android.support.v4.view.ViewPager>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:id="@+id/frameLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:background="#000000" >
+
+            </FrameLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>  

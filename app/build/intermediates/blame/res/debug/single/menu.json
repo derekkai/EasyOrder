@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui3_register_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui3_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui6_takeaway_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui6_takeaway_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui4__order__page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui4__order__page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui7_takeaway_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui7_takeaway_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui5_cook_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui5_cook_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui9_upload_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui9_upload_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui6_inside_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui6_inside_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui2_login_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui2_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui7_delivery_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui7_delivery_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui7_inside_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui7_inside_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui6_delivery_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui6_delivery_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui8_user_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui8_user_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ui1_splash_screen.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\menu\\ui1_splash_screen.xml"
+    }
+]

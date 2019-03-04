@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#000000"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#444444"
+                android:gravity="center"
+                android:text="外送"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+                android:showDividers="middle"
+                android:divider="@drawable/divider" >
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="地址"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#000000"
+                    android:textSize="24sp" />
+
+                <EditText
+                    android:id="@+id/D_address_et"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="textPostalAddress" >
+
+                    
+                </EditText>
+				
+            </LinearLayout>
+				<ImageView   
+        			android:layout_width="fill_parent"  
+        			android:layout_height="1.5dp"  
+       				android:background="#888888" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:showDividers="middle"
+                	android:divider="@drawable/divider">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.5"
+                        android:showDividers="middle"
+                		android:divider="@drawable/divider">
+
+                        <TextView
+                            android:id="@+id/textView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="用戶"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="24sp" />
+
+                        <TextView
+                            android:id="@+id/D_name_tv"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.25"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="24sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.5"
+                        android:showDividers="middle"
+                		android:divider="@drawable/divider" >
+
+                        <TextView
+                            android:id="@+id/textView9"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="時間"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="24sp" />
+
+                        <TextView
+                            android:id="@+id/D_time_tv"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.25"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="24sp" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+                
+
+            </LinearLayout>
+				<ImageView   
+        			android:layout_width="fill_parent"  
+        			android:layout_height="1.5dp"  
+       				android:background="#888888" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+                android:showDividers="middle"
+                android:divider="@drawable/divider" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"
+                    android:showDividers="middle"
+                	android:divider="@drawable/divider" >
+
+                    <TextView
+                        android:id="@+id/textView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="電話"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/D_phone_tv"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="24sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"
+                    android:showDividers="middle"
+                	android:divider="@drawable/divider" >
+
+                    <TextView
+                        android:id="@+id/textView10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="總金額"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/D_total_money"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="24sp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+			 <LinearLayout
+			     android:layout_width="match_parent"
+			     android:layout_height="wrap_content"
+			     android:background="#444444"
+			     android:showDividers="middle"
+                android:divider="@drawable/divider2" >
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.1"
+                    android:gravity="center"
+                    android:text="名稱"
+                    android:textColor="#FFFFFF"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.25"
+                    android:gravity="center"
+                    android:text="數量"
+                    android:textColor="#FFFFFF"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.25"
+                    android:gravity="center"
+                    android:text="修改"
+                    android:textColor="#FFFFFF"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.25"
+                    android:gravity="center"
+                    android:text="刪除"
+                    android:textColor="#FFFFFF"
+                    android:textSize="24sp" />
+
+            </LinearLayout>
+      
+			 <ListView
+			     android:id="@+id/Dmeals_list"
+			     android:layout_width="wrap_content"
+			     android:layout_height="wrap_content"
+			     android:divider="@color/divider2_gray"
+			     android:dividerHeight="2dp" >
+			 </ListView>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/relativelayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.9" >
+
+            <Button
+                android:id="@+id/D_certain"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/addlist_button"
+                android:text="確定下單"
+                android:textSize="24sp"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/D_clear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/certain_button"
+                android:text="結帳"
+                android:textSize="24sp"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+    </LinearLayout>

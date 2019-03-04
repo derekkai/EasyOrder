@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#5555FF</color>
+ 	<color name="deep_blue">#000088</color>
+    <color name="skyblue">#1FFFE9</color>
+    <color name="divider_gray">#888888</color>
+    <color name="divider2_gray">#AAAAAA</color>
+    <color name="divider3_gray">#444444</color>
+    <color name="item_gray">#888888</color>
+    
+    <color name="green">#33FF33</color>
+ 	<color name="deep_green">#00DD00</color>
+ 	<color name="cook_red">#FF0000</color>
+ 	
+ 	<color name="orange">#EE7700</color>
+ 	<color name="deep_orange">#BB5500</color>
+ 	<color name="green2">#00DD77</color>
+ 	<color name="deep_green2">#008844</color>
+ 	<color name="red">#CC0000</color>
+ 	<color name="deep_red">#880000</color>
+ 	<color name="blue2">#00DDDD</color>
+ 	<color name="deep_blue2">#008888</color>
+</resources>

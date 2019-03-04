@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">點餐系統</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ui2_login_page">點餐系統</string>
+    <string name="title_activity_ui3_register_page">帳號註冊</string>
+    <string name="title_activity_ui4__order__page">UI4_Order_Page</string>
+    <string name="title_activity_ui5_cook_page">廚師</string>
+    <string name="title_activity_ui6_takeaway_list">UI6_takeaway_list</string>
+    <string name="title_activity_ui6_delivery_list">UI6_delivery_list</string>
+    <string name="title_activity_ui7_takeaway_meals">UI7_takeaway_meals</string>
+    <string name="title_activity_ui7_delivery_meals">UI7_delivery_meals</string>
+    <string name="title_activity_ui8_user_page">帳戶資料</string>
+    <string name="title_activity_ui9_upload_meals">上傳餐點</string>
+    <string name="title_activity_ui6_inside_list">UI6_inside_list</string>
+    <string name="title_activity_ui7_inside_meals">UI7_inside_meals</string>
+
+</resources>

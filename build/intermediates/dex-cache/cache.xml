@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\a123b\.android\build-cache\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\build\intermediates\pre-dexed\debug\classes_9e22c32c00711cb65f2ceeb2e58f841b44ded05a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\libs\mysql-connector-java-5.1.34-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6df5bcec3970d71eaace2c5589077452c5e9ecfa">
+        <dex dex="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.1.34-bin_df1830a8c63f228cd6759e786dd7b7f217846d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a123b\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_bc9aee70653d2300c3bc950ebd52d9e8293cb143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\libs\Hami_Apps_SDK_V1.06_20110621.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b430c794ad723acc53b55436f906231ac4cb4ba">
+        <dex dex="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\build\intermediates\pre-dexed\debug\Hami_Apps_SDK_V1.06_20110621_7dc8bdfe0f403757ac0b64ffa7c08e0e05a4f053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a123b\.android\build-cache\f69dcd9a0ff91402d77dd9a7c22e00183c480daa\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_470fd4e6e2cf3d1e4c07e12dfd42ecdade487165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a123b\.android\build-cache\f69dcd9a0ff91402d77dd9a7c22e00183c480daa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\a123b\AndroidStudioProjects\OrderMeals\app\build\intermediates\pre-dexed\debug\classes_4f7be085ae5860530563dce2f1ff2b466cc0f9cc.jar" />
+    </item>
+
+</items>

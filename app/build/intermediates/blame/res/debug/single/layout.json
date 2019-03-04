@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui7_delivery_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui7_delivery_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui4_order_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui4_order_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui2_login_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui2_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui7_takeaway_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui7_takeaway_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\creat_table_people_number.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\creat_table_people_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cook_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\cook_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\upload_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui7_add_new_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui7_add_new_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inside_list_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\inside_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meals_edit.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\meals_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_upload_meals_sort.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\add_upload_meals_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui6_inside_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui6_inside_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui6_takeaway_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui6_takeaway_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui9_meals_sort.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui9_meals_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui7_inside_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui7_inside_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table_number.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\table_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page_spinner.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\login_page_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui6_delivery_list.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui6_delivery_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui8_add_new_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui8_add_new_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_sort_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\upload_sort_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui1_splash_screen.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui1_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meals_item.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\meals_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_number.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\edit_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui5_cook_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui5_cook_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui3_register_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui3_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_edit.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\sort_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui9_upload_meals.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui9_upload_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui8_user_page.xml",
+        "source": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\src\\main\\res\\layout\\ui8_user_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\a123b\\AndroidStudioProjects\\OrderMeals\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\a123b\\.android\\build-cache\\6c6fc1ceb58ed9857b6b959523ac63cdf2447a58\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    }
+]
